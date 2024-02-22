@@ -3,7 +3,6 @@ A simple Vue.js application that generates random user data using the Random Use
 
 ### Technologies Used
 Vue.js - JavaScript framework for building user interfaces.
-Random User Generator API - API for generating random user data. </br>
+Random User Generator API - API for generating random user data. </br></br>
 
-Link: <https://imyourjoey.github.io/vue-random-person-generator/>
-
+#### [Click to View](https://imyourjoey.github.io/vue-random-person-generator/){:target="_blank"}
